@@ -5,7 +5,7 @@
 
   <br/>
 
-  <h3><b>Basic Quiz Form</b></h3>
+  <h3><b>Accesibility Quiz Form</b></h3>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 
 
-# 📖 [Nutritional Label] <a name="about-project"></a>
+# 📖 [Accesibility Quiz] <a name="about-project"></a>
 
 > This simple but useful Quiz form is one of the many challenges you can find as part of the Responsive Web Design Certificate at FreeCodeCamp.org
 
