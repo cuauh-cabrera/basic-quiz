@@ -5,7 +5,7 @@
 
   <br/>
 
-  <h3><b>Accesibility Quiz Form</b></h3>
+  <h3><b>Accessibility Quiz Form</b></h3>
 
 </div>
 
@@ -35,11 +35,11 @@
 
 
 
-# 📖 [Accesibility Quiz] <a name="about-project"></a>
+# 📖 [Accessibility Quiz] <a name="about-project"></a>
 
 > This simple but useful Quiz form is one of the many challenges you can find as part of the Responsive Web Design Certificate at FreeCodeCamp.org
 
-**[Accesibility Quiz]** is aimed to improve your UX skills by creating apps that can be used for everyone, including people with disabilities.
+**[Accessibility Quiz]** is aimed to improve your UX skills by creating apps that can be used for everyone, including people with disabilities.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -58,7 +58,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[]**
+- **[Accessibility Tools]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
